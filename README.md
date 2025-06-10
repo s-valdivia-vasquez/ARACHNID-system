@@ -1,6 +1,8 @@
 # ARACHNID-system
 A Neuromorphic Camera Array System for Space Situational Awareness. 
 
+Work in progress
+
 Demo videos available at:
 https://www.youtube.com/playlist?list=PLaZnk8KVwCdEpGGF17JUzek4FKIoKYD8W&si=N5XoMQ7-EKGfivss
 
