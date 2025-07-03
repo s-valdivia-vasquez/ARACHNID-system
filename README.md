@@ -1,7 +1,9 @@
 # ARACHNID: A Neuromorphic Camera Array System for Space Situational Awareness.  
 
 [![ARACHNID Demo](https://img.youtube.com/vi/LMGO_UEAE98/0.jpg)](https://youtu.be/LMGO_UEAE98)
+
 [link](https://youtu.be/LMGO_UEAE98)
+
 **ARACHNID** (*Automatic Real-time Aerospace deteCtion Harnessing NeuromorphIc Devices*) is a neuromorphic sensing platform composed of 8 asynchronous *Event-Based Cameras (EBCs)* arranged in a multi-view configuration inspired by arachnid vision. It leverages *Spiking Neural Networks (SNNs)* for real-time, parallel detection of RSOs across multiple fields of view.
 
 ---
