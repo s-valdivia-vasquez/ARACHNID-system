@@ -23,10 +23,14 @@ The *EVAS (Event-based Vision Artificial Satellites)* dataset is available on Ka
 
 ## Development Environment
 
-All code was implemented using:
+All code in this repository was developed using the following stack:
 
 - **Python** 3.10  
 - **Prophesee Metavision SDK** v4.6.2  
 - **BrainChip Akida** v3.11  
 
-Development was conducted on **Ubuntu 22.04**, although the code is designed to be cross-platform with minimal adjustments required for other environments.
+Development was performed on **Ubuntu 22.04**, although the code is intended to be cross-platform with minimal adjustments.
+
+> **Note:**  
+> We recommend using a dedicated environment with **conda** to manage dependencies and ensure reproducibility across systems.
+
