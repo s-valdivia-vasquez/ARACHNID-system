@@ -6,6 +6,8 @@
 
 **ARACHNID** (*Automatic Real-time Aerospace deteCtion Harnessing NeuromorphIc Devices*) is a neuromorphic sensing platform composed of 8 asynchronous *Event-Based Cameras (EBCs)* arranged in a multi-view configuration inspired by arachnid vision. It leverages *Spiking Neural Networks (SNNs)* for real-time, parallel detection of RSOs across multiple fields of view.
 
+See related paper: https://ieeexplore.ieee.org/document/11419829
+
 ---
 
 ## Additional Demonstrations
