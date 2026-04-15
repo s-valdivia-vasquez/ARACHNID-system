@@ -19,7 +19,7 @@ See related paper: https://ieeexplore.ieee.org/document/11419829
 ## EVAS Dataset
 
 The *EVAS (Event-based Vision Artificial Satellites)* dataset is available on Kaggle:  
-[EVAS Dataset on Kaggle](https://www.kaggle.com/datasets/sevaldi/grabaciones-satlites)
+EVAS Dataset on Kaggle: https://www.kaggle.com/ds/5688319
 
 ---
 
